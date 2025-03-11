@@ -6,13 +6,29 @@
     </div>
     <div class="text">
       <h3>Dre Camille Couffy</h3>
-<p>Je suis le Docteur Camille Couffy, dentiste généraliste à Montréal. En 2021, j’ai décidé de m’installer au Canada pour enrichir ma carrière et offrir mes compétences à une nouvelle communauté. Après avoir complété mon équivalence à Boucherville pendant un an, j’ai choisi de m’installer à Montréal, une ville vibrante et accueillante.
-Ma priorité en tant que dentiste est de m’assurer que mes patients se sentent à l’aise et en confiance. J’aime particulièrement tisser des liens avec chacun de mes patients et les accompagner vers une santé bucco-dentaire optimale. Passionnée par toutes les facettes de la médecine dentaire, j’offre des soins complets et personnalisés, allant de la prévention aux traitements plus complexes.
-Je suis ravie de faire partie de l’équipe de la Clinique Dentaire Malka et j’ai hâte de vous rencontrer pour vous aider à obtenir le sourire sain et éclatant que vous méritez.</p>
+      <p>
+        Je suis le Docteur Camille Couffy, dentiste généraliste à Montréal. En 2021, j'ai décidé de
+        m'installer au Canada pour enrichir ma carrière et offrir mes compétences à une nouvelle
+        communauté.
+      </p>
+      <p>
+        Après avoir complété mon équivalence à Boucherville pendant un an, j'ai choisi de
+        m'installer à Montréal, une ville vibrante et accueillante.
+      </p>
+      <p>
+        Ma priorité en tant que dentiste est de m'assurer que mes patients se sentent à l'aise et en
+        confiance. J'aime particulièrement tisser des liens avec chacun de mes patients et les
+        accompagner vers une santé bucco-dentaire optimale. Passionnée par toutes les facettes de la
+        médecine dentaire, j'offre des soins complets et personnalisés, allant de la prévention aux
+        traitements plus complexes.
+      </p>
+      <p>
+        Je suis ravie de faire partie de l'équipe de la Clinique Dentaire Malka et j'ai hâte de vous
+        rencontrer pour vous aider à obtenir le sourire sain et éclatant que vous méritez.
+      </p>
       <ul>
-        <li>Formation à [Université]</li>
-        <li>Spécialisation en [Domaine]</li>
-        <li>Membre de [Associations]</li>
+        <li class="credentials">Formation à la faculté de chirurgie dentaire de Nantes</li>
+        <li class="credentials">Membre de l'ordre des dentistes du Québec</li>
       </ul>
     </div>
   </div>
@@ -69,9 +85,16 @@ Je suis ravie de faire partie de l’équipe de la Clinique Dentaire Malka et j�
     color: #cccccc;
   }
 
+  li.credentials {
+    font-style: italic;
+    text-align: right;
+    margin: 0.5rem 0;
+    color: #cccccc;
+  }
+
   @media (max-width: 768px) {
     .content {
       grid-template-columns: 1fr;
     }
   }
-</style> 
+</style>

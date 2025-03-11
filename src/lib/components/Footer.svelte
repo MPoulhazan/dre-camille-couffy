@@ -4,14 +4,17 @@
       <h3>Dre Camille Couffy</h3>
       <p>Votre sourire, notre priorité</p>
     </div>
-    
+
     <div class="social">
-      <a href="#"><i class="fab fa-facebook"></i></a>
-      <a href="#"><i class="fab fa-instagram"></i></a>
-      <a href="#"><i class="fab fa-linkedin"></i></a>
+      <a
+        href="https://www.linkedin.com/in/camille-couffy-392a421b1/"
+        aria-label="LinkedIn de Dre Camille Couffy"
+      >
+        <i class="fab fa-linkedin"></i>
+      </a>
     </div>
   </div>
-  
+
   <div class="bottom">
     <p>&copy; {new Date().getFullYear()} Dre Camille Couffy. Tous droits réservés.</p>
   </div>
@@ -69,4 +72,4 @@
     color: #cccccc;
     font-size: 0.9rem;
   }
-</style> 
+</style>

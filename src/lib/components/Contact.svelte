@@ -5,15 +5,16 @@
       <h3>Informations</h3>
       <p><i class="fas fa-phone"></i> 438-807-7273</p>
       <p><i class="fas fa-envelope"></i> dre.camille.couffy@gmail.com</p>
-      <p><i class="fas fa-map-marker-alt"></i> [Adresse]</p>
-      
+      <p>
+        <i class="fas fa-map-marker-alt"></i>Cabinet Malka,8131 R. Saint-Denis, Montréal, QC H2P 2G7
+      </p>
+
       <div class="hours">
         <h4>Horaires</h4>
-        <p>Lundi - Vendredi: 9h - 18h</p>
-        <p>Samedi - Dimanche: Fermé</p>
+        <p>Lundi, Mardi, Mercredi: 9h - 19h</p>
       </div>
     </div>
-    
+
     <form class="contact-form">
       <input type="text" placeholder="Nom complet" required />
       <input type="email" placeholder="Email" required />
@@ -78,7 +79,8 @@
     gap: 1rem;
   }
 
-  input, textarea {
+  input,
+  textarea {
     padding: 1rem;
     background: rgba(255, 255, 255, 0.05);
     border: 1px solid rgba(255, 255, 255, 0.1);
@@ -105,4 +107,4 @@
       grid-template-columns: 1fr;
     }
   }
-</style> 
+</style>

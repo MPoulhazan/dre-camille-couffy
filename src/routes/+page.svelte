@@ -18,7 +18,7 @@
   :global(body) {
     background-color: #0a0a0a;
     color: #ffffff;
-    font-family: 'Inter', sans-serif;
+    font-family: 'Red Hat Display', sans-serif;
     margin: 0;
     padding: 0;
   }
@@ -32,4 +32,4 @@
     margin: 0 auto;
     padding: 0 1rem;
   }
-</style> 
+</style>
