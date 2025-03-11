@@ -6,7 +6,7 @@
       <p><i class="fas fa-phone"></i>(514) 388-3368</p>
       <p><i class="fas fa-envelope"></i> dre.camille.couffy@gmail.com</p>
       <p>
-        <i class="fas fa-map-marker-alt"></i>Cabinet Malka,8131 R. Saint-Denis, Montréal, QC H2P 2G7
+        <i class="fas fa-map-marker-alt"></i>Clinique Malka, 8131 Rue Saint-Denis, Montréal, QC H2P 2G7
       </p>
 
       <div class="hours">
