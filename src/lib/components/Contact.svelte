@@ -3,7 +3,7 @@
   <div class="content">
     <div class="info">
       <h3>Informations</h3>
-      <p><i class="fas fa-phone"></i> 438-807-7273</p>
+      <p><i class="fas fa-phone"></i>(514) 388-3368</p>
       <p><i class="fas fa-envelope"></i> dre.camille.couffy@gmail.com</p>
       <p>
         <i class="fas fa-map-marker-alt"></i>Cabinet Malka,8131 R. Saint-Denis, Montréal, QC H2P 2G7
